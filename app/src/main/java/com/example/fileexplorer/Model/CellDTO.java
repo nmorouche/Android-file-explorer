@@ -1,4 +1,4 @@
-package com.example.fileexplorer;
+package com.example.fileexplorer.Model;
 
 public class CellDTO {
     private String title;
@@ -13,15 +13,8 @@ public class CellDTO {
         return title;
     }
 
-    public void setTitle(String title) {
-        this.title = title;
-    }
-
     public String getType() {
         return type;
     }
 
-    public void setType(String type) {
-        this.type = type;
-    }
 }

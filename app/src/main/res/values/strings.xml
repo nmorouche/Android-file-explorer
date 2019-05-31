@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">File Explorer</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
 </resources>
